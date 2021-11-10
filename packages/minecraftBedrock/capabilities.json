@@ -1,0 +1,14 @@
+[
+  {
+    "icon": "mdi-application-outline",
+    "id": "experimental_custom_ui"
+  },
+  {
+    "icon": "mdi-test-tube",
+    "id": "chemistry"
+  },
+  {
+    "icon": "mdi-star-four-points-outline",
+    "id": "raytraced"
+  }
+]
